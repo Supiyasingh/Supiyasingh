@@ -1,6 +1,11 @@
 # 💫 About Me:
 I'm an innovative frontend developer with a strong foundation in React.js, HTML5, CSS3, and JavaScript. I excel at creating responsive and efficient user interfaces that enhance user experiences. My ability to quickly learn new technologies and my strong problem-solving skills help me build seamless web applications.
+🎓 **Education:** B.Tech in Computer Science Engineering (2020-2024)  
+- 🎯 **Currently Learning:** Advanced React & MERN Stack  
+- 💼 **Internship:** Web Development Intern at LetsGrowMore  
+- 🌍 **Location:** Gorakhpur, India  
 
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/supriya__2110) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/supriya-singh-859552249/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supriyaexit@gmail.com) 
